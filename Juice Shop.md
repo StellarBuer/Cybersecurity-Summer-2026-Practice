@@ -25,3 +25,7 @@ DOM-XSS
 Далі використовуючи SQL ін'єкцію можна потрапити на акаунт адміна
 <img width="1740" height="1052" alt="image" src="https://github.com/user-attachments/assets/fdfc669c-7150-418e-8c6f-b963bb1b71ad" />
 <img width="1398" height="1025" alt="image" src="https://github.com/user-attachments/assets/da2c4530-cfc9-454c-ae5d-4e81124be854" />
+
+easter-egg
+<img width="2296" height="1215" alt="image" src="https://github.com/user-attachments/assets/83cbf082-2a99-40bf-80f7-f44e729dd847" />
+
