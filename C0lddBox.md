@@ -1,4 +1,4 @@
-<img width="1798" height="277" alt="image" src="https://github.com/user-attachments/assets/6eff564c-2ae0-4c34-baa3-a246bcadf014" />C0lddBox challange
+C0lddBox challange
 
 ip адреса пристрою 192.168.62.239
 <img width="1107" height="762" alt="image" src="https://github.com/user-attachments/assets/a255996d-7b78-424d-b8a8-3e33a215110a" />
